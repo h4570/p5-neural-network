@@ -1,4 +1,4 @@
-# Network Calculator
+# Neuron network, genetic algorithm example
 
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
