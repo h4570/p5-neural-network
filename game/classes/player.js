@@ -3,7 +3,7 @@ class Player {
     constructor(brain) {
         if (brain) {
             this.brain = brain.copy();
-            this.brain.mutate();
+            this.brain.mutate(0.6);
         } else this.brain = new NeuralNetwork(2, 4, 2);
         this.brain.learningRate = 0.5;
         this.lift = -15;

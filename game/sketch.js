@@ -1,5 +1,5 @@
 const groundHeight = 50;
-const playersAmount = 100;
+const playersAmount = 5;
 
 let players, obstacle, display, dna = 1;
 
