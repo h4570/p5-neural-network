@@ -3,7 +3,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 
-<img src="http://apgcglz.cluster028.hosting.ovh.net/github/p5-neural-network/main.gif" alt="Logo" width="80%" height="auto">
+<img src="https://raw.githubusercontent.com/h4570/p5-neural-network/master/docs/main.gif" alt="Logo" width="80%" height="auto">
 
 
 ## About the project
